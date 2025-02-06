@@ -13,10 +13,10 @@ lettersArray.forEach(letter => {
 })
 
 const words = {
-  programming: ["php", "javascript", "go", "scala", "fortran", "r", "mysql", "python"],
-  movies: ["Prestige", "Inception", "Parasite", "Interstellar", "Whiplash", "Memento", "Coco", "Up"],
+  programming: ["php", "javascript", "go", "scala", "fortran", "roby", "mysql", "python", "c"],
+  movies: ["Prestige", "Inception", "Parasite", "Interstellar", "Whiplash", "Memento", "Coco", "Up", "Happinise"],
   people: ["Albert Einstein", "Hitchcock", "Alexander", "Cleopatra", "Mahatma Ghandi"],
-  countries: ["Syria", "Palestine", "Yemen", "Egypt", "Bahrain", "Qatar"]
+  countries: ["Syria", "Palestine", "Yemen", "Egypt", "Bahrain", "Qatar", "Morocco"]
 }
 
 let allKeys = Object.keys(words);
