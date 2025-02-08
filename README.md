@@ -31,9 +31,11 @@
 
 ### Still in progress
 
- - Win function
- - Tablet and Mobile responsive design
- - some futures (timer, levels...)
+ - Win function. 
+ - Effects (sounds, winner effect like sprinkles background). 
+ - Tablet and Mobile responsive design. 
+ - Some futures (timer, levels...). 
+ - Add start game and choose the level option. 
 
 ### Useful resources
 
