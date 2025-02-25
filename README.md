@@ -1,6 +1,7 @@
-# Hangman_Game
+# Hangman Game
 
 ## Welcome! 👋
+![Screenshot for Hangman Game](./Screenshot.png)
 
 ## Table of contents
 
